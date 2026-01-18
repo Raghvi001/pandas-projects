@@ -31,4 +31,8 @@ Marks of students in Maths, English, and Science.
 - Python
 - Pandas
 - Matplotlib
+- ### Data Visualization
+- Line plot showing average marks per subject
+- Scatter plot showing relationship between subject scores
+
 
