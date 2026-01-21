@@ -34,5 +34,11 @@ Marks of students in Maths, English, and Science.
 - ### Data Visualization
 - Line plot showing average marks per subject
 - Scatter plot showing relationship between subject scores
+- ### Exploratory Data Analysis (EDA)
+
+- Performed group-based analysis to compare average subject scores for pass vs fail students.
+- Visualized relationships between subjects using scatter plots to identify correlations and outliers.
+- Used Matplotlib for clean, readable data storytelling.
+
 
 
